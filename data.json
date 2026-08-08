@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 07:30:07",
+  "updated": "2026-08-08 08:00:07",
   "ships": [
     {
       "status": "last",
@@ -11,7 +11,7 @@
       "passengers": 500
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Trollfjord",
       "arrival": "2026-08-08 08:00",
       "departure": "2026-08-08 16:00",
