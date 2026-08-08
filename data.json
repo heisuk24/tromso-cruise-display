@@ -1,17 +1,8 @@
 {
-  "updated": "2026-08-08 15:30:07",
+  "updated": "2026-08-08 16:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Finnmarken",
-      "arrival": "2026-08-01 12:00",
-      "departure": "2026-08-01 18:00",
-      "from_port": "Honningsvåg",
-      "to_port": "Reine",
-      "passengers": 500
-    },
-    {
-      "status": "in_port",
       "name": "Trollfjord",
       "arrival": "2026-08-08 08:00",
       "departure": "2026-08-08 16:00",
@@ -36,6 +27,15 @@
       "from_port": "Trondheim",
       "to_port": "Honningsvåg",
       "passengers": 3132
+    },
+    {
+      "status": "next",
+      "name": "Silver Endeavour",
+      "arrival": "2026-08-11 08:00",
+      "departure": "2026-08-11 17:30",
+      "from_port": "nan",
+      "to_port": "nan",
+      "passengers": 200
     }
   ]
 }
