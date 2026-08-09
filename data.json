@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 08:30:07",
+  "updated": "2026-08-09 09:00:07",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 0
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Corinthian 9hut9",
       "quay": "Kai 8",
       "arrival": "2026-08-09 09:00",
