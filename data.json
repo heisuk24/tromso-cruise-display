@@ -1,18 +1,8 @@
 {
-  "updated": "2026-08-10 19:00:07",
+  "updated": "2026-08-10 19:30:06",
   "ships": [
     {
       "status": "last",
-      "name": "Corinthian 9hut9",
-      "quay": "Kai 8",
-      "arrival": "2026-08-09 09:00",
-      "departure": "2026-08-09 17:00",
-      "from_port": "Leknes",
-      "to_port": "Leknes",
-      "passengers": 98
-    },
-    {
-      "status": "in_port",
       "name": "Mein Schiff 1",
       "quay": "Kai 21",
       "arrival": "2026-08-10 09:30",
@@ -40,6 +30,16 @@
       "from_port": "Molde",
       "to_port": "Longyearbyen",
       "passengers": 3500
+    },
+    {
+      "status": "next",
+      "name": "Midnatsol LEFO",
+      "quay": "Kai 8",
+      "arrival": "2026-08-15 08:00",
+      "departure": "2026-08-15 16:00",
+      "from_port": "Reine",
+      "to_port": "Honningsvåg",
+      "passengers": 528
     }
   ]
 }
