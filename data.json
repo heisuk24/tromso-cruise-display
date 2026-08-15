@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 11:30:07",
+  "updated": "2026-08-15 12:00:07",
   "ships": [
     {
       "status": "last",
@@ -13,16 +13,6 @@
     },
     {
       "status": "in_port",
-      "name": "Midnatsol LEFO",
-      "quay": "Kai 8",
-      "arrival": "2026-08-15 08:00",
-      "departure": "2026-08-15 16:00",
-      "from_port": "Reine",
-      "to_port": "Honningsvåg",
-      "passengers": 528
-    },
-    {
-      "status": "next",
       "name": "Finnmarken",
       "quay": "Kai 8",
       "arrival": "2026-08-15 12:00",
@@ -40,6 +30,16 @@
       "from_port": "Reine",
       "to_port": "Honningsvåg",
       "passengers": 0
+    },
+    {
+      "status": "next",
+      "name": "WORLD VOYAGER",
+      "quay": "Kai 8",
+      "arrival": "2026-08-24 10:00",
+      "departure": "2026-08-24 18:00",
+      "from_port": "Other – Svalbard And Jan Mayen",
+      "to_port": "Skarsvåg",
+      "passengers": 200
     }
   ]
 }
