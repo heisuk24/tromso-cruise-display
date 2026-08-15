@@ -1,18 +1,8 @@
 {
-  "updated": "2026-08-15 17:30:07",
+  "updated": "2026-08-15 18:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Midnatsol LEFO",
-      "quay": "Kai 8",
-      "arrival": "2026-08-15 08:00",
-      "departure": "2026-08-15 16:00",
-      "from_port": "Reine",
-      "to_port": "Honningsvåg",
-      "passengers": 528
-    },
-    {
-      "status": "in_port",
       "name": "Finnmarken",
       "quay": "Kai 8",
       "arrival": "2026-08-15 12:00",
@@ -40,6 +30,16 @@
       "from_port": "Other – Svalbard And Jan Mayen",
       "to_port": "Skarsvåg",
       "passengers": 200
+    },
+    {
+      "status": "next",
+      "name": "Viking Vela",
+      "quay": "Kai 21",
+      "arrival": "2026-08-25 08:00",
+      "departure": "2026-08-25 18:00",
+      "from_port": "Honningsvåg",
+      "to_port": "Leknes",
+      "passengers": 998
     }
   ]
 }
