@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-21 11:30:08",
+  "updated": "2026-08-21 12:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Finnmarken",
+      "name": "Midnatsol LEFO",
       "quay": "Kai 8",
-      "arrival": "2026-08-15 12:00",
-      "departure": "2026-08-15 18:00",
-      "from_port": "Honningsvåg",
-      "to_port": "Reine",
-      "passengers": 500
+      "arrival": "2026-08-15 07:42",
+      "departure": "2026-08-15 21:08",
+      "from_port": "Reine",
+      "to_port": "Honningsvåg",
+      "passengers": 528
     },
     {
       "status": "next",
