@@ -1,18 +1,8 @@
 {
-  "updated": "2026-08-24 17:30:08",
+  "updated": "2026-08-24 18:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "Trollfjord",
-      "quay": "Kai 8",
-      "arrival": "2026-08-22 08:00",
-      "departure": "2026-08-22 16:00",
-      "from_port": "Reine",
-      "to_port": "Honningsvåg",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "WORLD VOYAGER",
       "quay": "Kai 8",
       "arrival": "2026-08-24 10:00",
@@ -40,6 +30,16 @@
       "from_port": "Reine",
       "to_port": "Honningsvåg",
       "passengers": 528
+    },
+    {
+      "status": "next",
+      "name": "Finnmarken",
+      "quay": "Kai 8",
+      "arrival": "2026-08-29 12:00",
+      "departure": "2026-08-29 18:00",
+      "from_port": "Honningsvåg",
+      "to_port": "Reine",
+      "passengers": 500
     }
   ]
 }
