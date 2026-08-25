@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 07:30:08",
+  "updated": "2026-08-25 08:00:08",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 200
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Viking Vela",
       "quay": "Kai 21",
       "arrival": "2026-08-25 08:00",
