@@ -1,18 +1,8 @@
 {
-  "updated": "2026-08-25 17:30:08",
+  "updated": "2026-08-25 18:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "WORLD VOYAGER",
-      "quay": "Kai 8",
-      "arrival": "2026-08-24 10:00",
-      "departure": "2026-08-24 18:00",
-      "from_port": "Other – Svalbard And Jan Mayen",
-      "to_port": "Skarsvåg",
-      "passengers": 200
-    },
-    {
-      "status": "in_port",
       "name": "Viking Vela",
       "quay": "Kai 21",
       "arrival": "2026-08-25 08:00",
@@ -40,6 +30,16 @@
       "from_port": "Honningsvåg",
       "to_port": "Reine",
       "passengers": 500
+    },
+    {
+      "status": "next",
+      "name": "Seven Seas Mariner C6vv8",
+      "quay": "Kai 21",
+      "arrival": "2026-08-30 08:00",
+      "departure": "2026-08-30 20:00",
+      "from_port": "Honningsvåg",
+      "to_port": "Ålesund",
+      "passengers": 0
     }
   ]
 }
