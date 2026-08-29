@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 07:30:07",
+  "updated": "2026-08-29 08:00:07",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 998
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Midnatsol LEFO",
       "quay": "Kai 8",
       "arrival": "2026-08-29 08:00",
