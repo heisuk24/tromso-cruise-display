@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-29 15:30:08",
+  "updated": "2026-08-29 16:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Viking Vela",
-      "quay": "Kai 21",
-      "arrival": "2026-08-25 08:00",
-      "departure": "2026-08-25 18:00",
-      "from_port": "Honningsvåg",
-      "to_port": "Leknes",
-      "passengers": 998
+      "name": "Midnatsol LEFO",
+      "quay": "Kai 8",
+      "arrival": "2026-08-29 08:00",
+      "departure": "2026-08-29 16:00",
+      "from_port": "Reine",
+      "to_port": "Honningsvåg",
+      "passengers": 528
     },
     {
       "status": "in_port",
