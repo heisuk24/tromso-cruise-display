@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-30 07:30:07",
+  "updated": "2026-08-30 08:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Finnmarken",
+      "name": "Midnatsol LEFO",
       "quay": "Kai 8",
-      "arrival": "2026-08-29 12:00",
-      "departure": "2026-08-29 18:00",
-      "from_port": "Honningsvåg",
-      "to_port": "Reine",
-      "passengers": 500
+      "arrival": "2026-08-29 07:43",
+      "departure": "2026-08-29 20:52",
+      "from_port": "Reine",
+      "to_port": "Honningsvåg",
+      "passengers": 528
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Seven Seas Mariner C6vv8",
       "quay": "Kai 21",
       "arrival": "2026-08-30 08:00",
@@ -23,16 +23,6 @@
     },
     {
       "status": "next",
-      "name": "Amadea",
-      "quay": "Kai 8",
-      "arrival": "2026-08-30 08:00",
-      "departure": "2026-08-30 18:00",
-      "from_port": "Longyearbyen",
-      "to_port": "Svolvær",
-      "passengers": 620
-    },
-    {
-      "status": "next",
       "name": "Sylvia Earle",
       "quay": "Kai 8",
       "arrival": "2026-09-02 14:00",
@@ -40,6 +30,16 @@
       "from_port": "nan",
       "to_port": "nan",
       "passengers": 144
+    },
+    {
+      "status": "next",
+      "name": "CELEBRITY APEX",
+      "quay": "Kai 21",
+      "arrival": "2026-09-04 11:00",
+      "departure": "2026-09-04 19:00",
+      "from_port": "Trondheim",
+      "to_port": "Honningsvåg",
+      "passengers": 2918
     }
   ]
 }
