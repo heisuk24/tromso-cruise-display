@@ -1,18 +1,8 @@
 {
-  "updated": "2026-08-30 19:30:07",
+  "updated": "2026-08-30 20:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Amadea",
-      "quay": "Kai 8",
-      "arrival": "2026-08-30 08:00",
-      "departure": "2026-08-30 18:00",
-      "from_port": "Longyearbyen",
-      "to_port": "Svolvær",
-      "passengers": 620
-    },
-    {
-      "status": "in_port",
       "name": "Seven Seas Mariner C6vv8",
       "quay": "Kai 21",
       "arrival": "2026-08-30 08:00",
@@ -40,6 +30,16 @@
       "from_port": "Trondheim",
       "to_port": "Honningsvåg",
       "passengers": 2918
+    },
+    {
+      "status": "next",
+      "name": "Trollfjord",
+      "quay": "Kai 8",
+      "arrival": "2026-09-05 08:00",
+      "departure": "2026-09-05 16:00",
+      "from_port": "Reine",
+      "to_port": "Honningsvåg",
+      "passengers": 0
     }
   ]
 }
