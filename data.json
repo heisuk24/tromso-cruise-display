@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-30 17:30:07",
+  "updated": "2026-08-30 18:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Midnatsol LEFO",
+      "name": "Amadea",
       "quay": "Kai 8",
-      "arrival": "2026-08-29 07:43",
-      "departure": "2026-08-29 20:52",
-      "from_port": "Reine",
-      "to_port": "Honningsvåg",
-      "passengers": 528
+      "arrival": "2026-08-30 08:00",
+      "departure": "2026-08-30 18:00",
+      "from_port": "Longyearbyen",
+      "to_port": "Svolvær",
+      "passengers": 620
     },
     {
       "status": "in_port",
