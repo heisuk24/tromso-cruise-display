@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02 13:30:08",
+  "updated": "2026-09-02 14:00:08",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 0
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Sylvia Earle",
       "quay": "Kai 8",
       "arrival": "2026-09-02 14:00",
