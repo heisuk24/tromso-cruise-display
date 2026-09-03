@@ -1,18 +1,8 @@
 {
-  "updated": "2026-09-03 17:30:07",
+  "updated": "2026-09-03 18:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "Seven Seas Mariner C6vv8",
-      "quay": "Kai 21",
-      "arrival": "2026-08-30 08:00",
-      "departure": "2026-08-30 20:07",
-      "from_port": "Honningsvåg",
-      "to_port": "Ålesund",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "Sylvia Earle",
       "quay": "Kai 8",
       "arrival": "2026-09-02 14:00",
@@ -40,6 +30,16 @@
       "from_port": "Reine",
       "to_port": "Honningsvåg",
       "passengers": 0
+    },
+    {
+      "status": "next",
+      "name": "ROTTERDAM",
+      "quay": "Kai 21",
+      "arrival": "2026-09-05 09:00",
+      "departure": "2026-09-05 17:00",
+      "from_port": "Honningsvåg",
+      "to_port": "Harstad",
+      "passengers": 3152
     }
   ]
 }
