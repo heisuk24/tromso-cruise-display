@@ -1,18 +1,8 @@
 {
-  "updated": "2026-09-04 18:30:07",
+  "updated": "2026-09-04 19:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "Sylvia Earle",
-      "quay": "Kai 8",
-      "arrival": "2026-09-02 14:00",
-      "departure": "2026-09-03 18:00",
-      "from_port": "nan",
-      "to_port": "nan",
-      "passengers": 144
-    },
-    {
-      "status": "in_port",
       "name": "CELEBRITY APEX",
       "quay": "Kai 21",
       "arrival": "2026-09-04 11:00",
@@ -40,6 +30,16 @@
       "from_port": "Honningsvåg",
       "to_port": "Harstad",
       "passengers": 3152
+    },
+    {
+      "status": "next",
+      "name": "Hanseatic Nature",
+      "quay": "Kai 8",
+      "arrival": "2026-09-10 12:00",
+      "departure": "2026-09-10 18:30",
+      "from_port": "Honningsvåg",
+      "to_port": "Svolvær",
+      "passengers": 230
     }
   ]
 }
