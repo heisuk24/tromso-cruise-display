@@ -1,18 +1,8 @@
 {
-  "updated": "2026-09-05 16:30:07",
+  "updated": "2026-09-05 17:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Trollfjord",
-      "quay": "Kai 8",
-      "arrival": "2026-09-05 08:00",
-      "departure": "2026-09-05 16:00",
-      "from_port": "Reine",
-      "to_port": "Honningsvåg",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "ROTTERDAM",
       "quay": "Kai 21",
       "arrival": "2026-09-05 09:00",
@@ -40,6 +30,16 @@
       "from_port": "nan",
       "to_port": "nan",
       "passengers": 0
+    },
+    {
+      "status": "next",
+      "name": "Midnatsol LEFO",
+      "quay": "Kai 8",
+      "arrival": "2026-09-12 08:00",
+      "departure": "2026-09-12 16:00",
+      "from_port": "Reine",
+      "to_port": "Honningsvåg",
+      "passengers": 528
     }
   ]
 }
