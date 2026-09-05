@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 07:30:07",
+  "updated": "2026-09-05 08:00:07",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 2918
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Trollfjord",
       "quay": "Kai 8",
       "arrival": "2026-09-05 08:00",
