@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-08 16:30:09",
+  "updated": "2026-09-08 17:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "ROTTERDAM",
-      "quay": "Kai 21",
-      "arrival": "2026-09-05 09:00",
-      "departure": "2026-09-05 17:00",
-      "from_port": "Honningsvåg",
-      "to_port": "Harstad",
-      "passengers": 3152
+      "name": "Trollfjord",
+      "quay": "Kai 8",
+      "arrival": "2026-09-05 07:51",
+      "departure": "2026-09-05 21:53",
+      "from_port": "Reine",
+      "to_port": "Honningsvåg",
+      "passengers": 0
     },
     {
       "status": "next",
       "name": "Hanseatic Nature",
       "quay": "Kai 8",
       "arrival": "2026-09-10 12:00",
-      "departure": "2026-09-10 18:30",
+      "departure": "2026-09-10 19:00",
       "from_port": "Honningsvåg",
       "to_port": "Svolvær",
       "passengers": 230
