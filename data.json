@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-12 15:30:08",
+  "updated": "2026-09-12 16:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Hanseatic Nature",
-      "quay": "Kai 8",
-      "arrival": "2026-09-10 11:35",
-      "departure": "2026-09-10 19:07",
-      "from_port": "Honningsvåg",
-      "to_port": "Svolvær",
-      "passengers": 230
+      "name": "Plancius Pbqk",
+      "quay": "Kai 21",
+      "arrival": "2026-09-12 06:00",
+      "departure": "2026-09-12 16:00",
+      "from_port": "nan",
+      "to_port": "nan",
+      "passengers": 0
     },
     {
       "status": "in_port",
