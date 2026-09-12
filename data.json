@@ -1,18 +1,8 @@
 {
-  "updated": "2026-09-12 17:30:07",
+  "updated": "2026-09-12 18:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "Plancius Pbqk",
-      "quay": "Kai 21",
-      "arrival": "2026-09-12 06:00",
-      "departure": "2026-09-12 16:00",
-      "from_port": "nan",
-      "to_port": "nan",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "Finnmarken",
       "quay": "Kai 8",
       "arrival": "2026-09-12 12:00",
@@ -40,6 +30,16 @@
       "from_port": "Sortland",
       "to_port": "Bodø",
       "passengers": 2686
+    },
+    {
+      "status": "next",
+      "name": "Finnmarken",
+      "quay": "Kai 8",
+      "arrival": "2026-09-24 10:00",
+      "departure": "2026-09-24 18:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Honningsvåg",
+      "passengers": 500
     }
   ]
 }
