@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 07:30:07",
+  "updated": "2026-09-12 08:00:07",
   "ships": [
     {
       "status": "last",
@@ -13,16 +13,6 @@
     },
     {
       "status": "in_port",
-      "name": "Plancius Pbqk",
-      "quay": "Kai 21",
-      "arrival": "2026-09-12 06:00",
-      "departure": "2026-09-12 16:00",
-      "from_port": "nan",
-      "to_port": "nan",
-      "passengers": 0
-    },
-    {
-      "status": "next",
       "name": "Midnatsol LEFO",
       "quay": "Kai 8",
       "arrival": "2026-09-12 08:00",
@@ -40,6 +30,16 @@
       "from_port": "Stokmarknes",
       "to_port": "Honningsvåg",
       "passengers": 500
+    },
+    {
+      "status": "next",
+      "name": "Aqua Lares",
+      "quay": "Kai 8",
+      "arrival": "2026-09-15 06:00",
+      "departure": "2026-09-15 16:00",
+      "from_port": "Longyearbyen",
+      "to_port": "Svolvær",
+      "passengers": 0
     }
   ]
 }
