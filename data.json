@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 05:30:07",
+  "updated": "2026-09-12 06:00:08",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 230
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Plancius Pbqk",
       "quay": "Kai 21",
       "arrival": "2026-09-12 06:00",
