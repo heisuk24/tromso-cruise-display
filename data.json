@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 11:30:08",
+  "updated": "2026-09-12 12:00:07",
   "ships": [
     {
       "status": "last",
@@ -13,16 +13,6 @@
     },
     {
       "status": "in_port",
-      "name": "Midnatsol LEFO",
-      "quay": "Kai 8",
-      "arrival": "2026-09-12 08:00",
-      "departure": "2026-09-12 16:00",
-      "from_port": "Reine",
-      "to_port": "Honningsvåg",
-      "passengers": 528
-    },
-    {
-      "status": "next",
       "name": "Finnmarken",
       "quay": "Kai 8",
       "arrival": "2026-09-12 12:00",
@@ -40,6 +30,16 @@
       "from_port": "Longyearbyen",
       "to_port": "Svolvær",
       "passengers": 0
+    },
+    {
+      "status": "next",
+      "name": "AIDAsol",
+      "quay": "Kai 21",
+      "arrival": "2026-09-24 09:00",
+      "departure": "2026-09-25 15:00",
+      "from_port": "Sortland",
+      "to_port": "Bodø",
+      "passengers": 2686
     }
   ]
 }
