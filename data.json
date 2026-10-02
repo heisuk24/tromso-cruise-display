@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-02 19:30:08",
+  "updated": "2026-10-02 20:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Trollfjord",
-      "quay": "Kai 8",
-      "arrival": "2026-10-01 10:00",
-      "departure": "2026-10-01 18:00",
-      "from_port": "Stokmarknes",
-      "to_port": "Honningsvåg",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "Midnatsol Lefo (Cruise)",
       "quay": "Kai 8",
       "arrival": "2026-10-02 10:00",
@@ -40,6 +30,16 @@
       "from_port": "Narvik",
       "to_port": "Alta",
       "passengers": 3152
+    },
+    {
+      "status": "next",
+      "name": "AIDAbella",
+      "quay": "Kai 21",
+      "arrival": "2026-10-12 09:00",
+      "departure": "2026-10-13 15:00",
+      "from_port": "Alta",
+      "to_port": "Bodø",
+      "passengers": 2030
     }
   ]
 }
