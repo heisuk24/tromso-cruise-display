@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 09:30:07",
+  "updated": "2026-10-02 10:00:07",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 0
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Midnatsol Lefo (Cruise)",
       "quay": "Kai 8",
       "arrival": "2026-10-02 10:00",
