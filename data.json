@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 08:30:08",
+  "updated": "2026-10-07 09:00:07",
   "ships": [
     {
       "status": "last",
@@ -26,7 +26,7 @@
       "name": "ROTTERDAM",
       "quay": "Kai 21",
       "arrival": "2026-10-09 10:00",
-      "departure": "2026-10-10 22:00",
+      "departure": "2026-10-10 21:00",
       "from_port": "Narvik",
       "to_port": "Alta",
       "passengers": 3152
