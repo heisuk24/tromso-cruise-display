@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09 09:30:10",
+  "updated": "2026-10-09 10:00:07",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 500
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "ROTTERDAM",
       "quay": "Kai 21",
       "arrival": "2026-10-09 10:00",
