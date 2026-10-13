@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-13 14:30:07",
+  "updated": "2026-10-13 15:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "ROTTERDAM",
-      "quay": "Kai 21",
-      "arrival": "2026-10-09 10:00",
-      "departure": "2026-10-10 21:00",
-      "from_port": "Narvik",
-      "to_port": "Alta",
-      "passengers": 3152
-    },
-    {
-      "status": "in_port",
       "name": "AIDAbella",
       "quay": "Kai 21",
       "arrival": "2026-10-12 09:00",
@@ -40,6 +30,16 @@
       "from_port": "Trondheim",
       "to_port": "Alta",
       "passengers": 4450
+    },
+    {
+      "status": "next",
+      "name": "Trollfjord",
+      "quay": "Kai 8",
+      "arrival": "2026-10-15 10:00",
+      "departure": "2026-10-15 18:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Honningsvåg",
+      "passengers": 0
     }
   ]
 }
