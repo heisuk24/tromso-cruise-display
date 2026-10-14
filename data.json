@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 06:30:07",
+  "updated": "2026-10-14 07:00:07",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 2030
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "LE COMMANDANT CHARCOT",
       "quay": "Kai 21",
       "arrival": "2026-10-14 07:00",
