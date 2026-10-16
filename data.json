@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-16 18:30:07",
+  "updated": "2026-10-16 19:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Sky Princess",
-      "quay": "Kai 21",
-      "arrival": "2026-10-15 09:00",
-      "departure": "2026-10-16 01:00",
-      "from_port": "Trondheim",
-      "to_port": "Alta",
-      "passengers": 4450
-    },
-    {
-      "status": "in_port",
       "name": "Hanseatic Nature",
       "quay": "Kai 8",
       "arrival": "2026-10-16 12:30",
@@ -20,6 +10,16 @@
       "from_port": "Ålesund",
       "to_port": "Honningsvåg",
       "passengers": 230
+    },
+    {
+      "status": "in_port",
+      "name": "Midnatsol Lefo (Cruise)",
+      "quay": "Kai 8",
+      "arrival": "2026-10-16 10:00",
+      "departure": "2026-10-16 20:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Honningsvåg",
+      "passengers": 0
     },
     {
       "status": "next",
