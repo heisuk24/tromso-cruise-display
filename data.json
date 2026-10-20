@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-20 16:30:07",
+  "updated": "2026-10-20 17:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "Queen Anne",
-      "quay": "Kai 21",
-      "arrival": "2026-10-18 09:00",
-      "departure": "2026-10-19 01:00",
-      "from_port": "Ålesund",
-      "to_port": "Narvik",
-      "passengers": 2992
+      "name": "ROTTERDAM",
+      "quay": "Kai 22",
+      "arrival": "2026-10-10 08:22",
+      "departure": "2026-10-18 16:35",
+      "from_port": "nan",
+      "to_port": "nan",
+      "passengers": 3152
     },
     {
       "status": "next",
