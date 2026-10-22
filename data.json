@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 11:30:07",
+  "updated": "2026-10-22 12:00:07",
   "ships": [
     {
       "status": "last",
@@ -13,16 +13,6 @@
     },
     {
       "status": "in_port",
-      "name": "Finnmarken",
-      "quay": "Kai 8",
-      "arrival": "2026-10-22 10:00",
-      "departure": "2026-10-22 18:00",
-      "from_port": "Stokmarknes",
-      "to_port": "Honningsvåg",
-      "passengers": 500
-    },
-    {
-      "status": "next",
       "name": "Ambition",
       "quay": "Kai 21",
       "arrival": "2026-10-22 12:00",
@@ -40,6 +30,16 @@
       "from_port": "Narvik",
       "to_port": "Alta",
       "passengers": 3152
+    },
+    {
+      "status": "next",
+      "name": "LE COMMANDANT CHARCOT",
+      "quay": "Kai 21",
+      "arrival": "2026-10-24 07:00",
+      "departure": "2026-10-24 17:30",
+      "from_port": "Alta",
+      "to_port": "Narvik",
+      "passengers": 270
     }
   ]
 }
