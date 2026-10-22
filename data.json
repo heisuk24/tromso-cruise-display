@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-22 17:30:07",
+  "updated": "2026-10-22 18:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "ROTTERDAM",
-      "quay": "Kai 22",
-      "arrival": "2026-10-10 08:22",
-      "departure": "2026-10-18 16:35",
-      "from_port": "nan",
-      "to_port": "nan",
-      "passengers": 3152
+      "name": "Finnmarken",
+      "quay": "Kai 8",
+      "arrival": "2026-10-22 10:00",
+      "departure": "2026-10-22 18:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Honningsvåg",
+      "passengers": 500
     },
     {
       "status": "in_port",
