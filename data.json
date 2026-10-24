@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 08:30:07",
+  "updated": "2026-10-24 09:00:08",
   "ships": [
     {
       "status": "last",
@@ -13,16 +13,6 @@
     },
     {
       "status": "in_port",
-      "name": "LE COMMANDANT CHARCOT",
-      "quay": "Kai 21",
-      "arrival": "2026-10-24 07:00",
-      "departure": "2026-10-24 17:30",
-      "from_port": "Alta",
-      "to_port": "Narvik",
-      "passengers": 270
-    },
-    {
-      "status": "next",
       "name": "Regatta",
       "quay": "Kai 8",
       "arrival": "2026-10-24 09:00",
@@ -40,6 +30,16 @@
       "from_port": "nan",
       "to_port": "nan",
       "passengers": 1590
+    },
+    {
+      "status": "next",
+      "name": "LE COMMANDANT CHARCOT",
+      "quay": "Kai 21",
+      "arrival": "2026-10-28 09:00",
+      "departure": "2026-10-28 18:00",
+      "from_port": "Harstad",
+      "to_port": "Alta",
+      "passengers": 270
     }
   ]
 }
