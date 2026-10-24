@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-24 17:00:08",
+  "updated": "2026-10-24 17:30:07",
   "ships": [
     {
       "status": "last",
-      "name": "Nieuw Statendam",
+      "name": "LE COMMANDANT CHARCOT",
       "quay": "Kai 21",
-      "arrival": "2026-10-23 10:00",
-      "departure": "2026-10-23 23:59",
-      "from_port": "Narvik",
-      "to_port": "Alta",
-      "passengers": 3152
+      "arrival": "2026-10-24 07:00",
+      "departure": "2026-10-24 17:30",
+      "from_port": "Alta",
+      "to_port": "Narvik",
+      "passengers": 270
     },
     {
       "status": "in_port",
