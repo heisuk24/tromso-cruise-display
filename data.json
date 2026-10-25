@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-25 21:30:07",
+  "updated": "2026-10-25 22:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Regatta",
-      "quay": "Kai 8",
-      "arrival": "2026-10-24 09:00",
-      "departure": "2026-10-24 23:00",
-      "from_port": "Ålesund",
-      "to_port": "Alta",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "AMBIENCE",
       "quay": "Kai 21",
       "arrival": "2026-10-25 12:00",
@@ -40,6 +30,16 @@
       "from_port": "Narvik",
       "to_port": "Stavanger",
       "passengers": 2050
+    },
+    {
+      "status": "next",
+      "name": "Trollfjord",
+      "quay": "Kai 8",
+      "arrival": "2026-10-29 10:00",
+      "departure": "2026-10-29 18:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Honningsvåg",
+      "passengers": 0
     }
   ]
 }
