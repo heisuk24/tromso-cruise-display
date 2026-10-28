@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-28 17:30:07",
+  "updated": "2026-10-28 18:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "AMBIENCE",
-      "quay": "Kai 21",
-      "arrival": "2026-10-25 12:00",
-      "departure": "2026-10-25 22:00",
-      "from_port": "nan",
-      "to_port": "nan",
-      "passengers": 1590
-    },
-    {
-      "status": "in_port",
       "name": "LE COMMANDANT CHARCOT",
       "quay": "Kai 21",
       "arrival": "2026-10-28 09:00",
@@ -37,6 +27,16 @@
       "quay": "Kai 8",
       "arrival": "2026-10-29 10:00",
       "departure": "2026-10-29 18:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Honningsvåg",
+      "passengers": 0
+    },
+    {
+      "status": "next",
+      "name": "Midnatsol Lefo (Cruise)",
+      "quay": "Kai 8",
+      "arrival": "2026-10-30 10:00",
+      "departure": "2026-10-30 18:00",
       "from_port": "Stokmarknes",
       "to_port": "Honningsvåg",
       "passengers": 0
