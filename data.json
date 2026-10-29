@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 07:30:07",
+  "updated": "2026-10-29 08:00:07",
   "ships": [
     {
       "status": "last",
@@ -12,7 +12,7 @@
       "passengers": 270
     },
     {
-      "status": "next",
+      "status": "in_port",
       "name": "Aurora",
       "quay": "Kai 21",
       "arrival": "2026-10-29 08:00",
