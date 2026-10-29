@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-29 17:30:08",
+  "updated": "2026-10-29 18:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "LE COMMANDANT CHARCOT",
-      "quay": "Kai 21",
-      "arrival": "2026-10-28 09:00",
-      "departure": "2026-10-28 18:00",
-      "from_port": "Harstad",
-      "to_port": "Alta",
-      "passengers": 270
-    },
-    {
-      "status": "in_port",
       "name": "Trollfjord",
       "quay": "Kai 8",
       "arrival": "2026-10-29 10:00",
@@ -20,6 +10,16 @@
       "from_port": "Stokmarknes",
       "to_port": "Honningsvåg",
       "passengers": 0
+    },
+    {
+      "status": "in_port",
+      "name": "Aurora",
+      "quay": "Kai 21",
+      "arrival": "2026-10-29 08:00",
+      "departure": "2026-10-30 01:00",
+      "from_port": "Narvik",
+      "to_port": "Stavanger",
+      "passengers": 2050
     },
     {
       "status": "next",
