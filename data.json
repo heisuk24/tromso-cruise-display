@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-30 17:30:07",
+  "updated": "2026-10-30 18:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Aurora",
-      "quay": "Kai 21",
-      "arrival": "2026-10-29 08:00",
-      "departure": "2026-10-30 01:00",
-      "from_port": "Narvik",
-      "to_port": "Stavanger",
-      "passengers": 2050
-    },
-    {
-      "status": "in_port",
       "name": "Midnatsol Lefo (Cruise)",
       "quay": "Kai 8",
       "arrival": "2026-10-30 10:00",
@@ -40,6 +30,16 @@
       "from_port": "Stokmarknes",
       "to_port": "Honningsvåg",
       "passengers": 500
+    },
+    {
+      "status": "next",
+      "name": "Trollfjord",
+      "quay": "Kai 8",
+      "arrival": "2026-11-12 10:00",
+      "departure": "2026-11-12 18:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Stokmarknes",
+      "passengers": 0
     }
   ]
 }
