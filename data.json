@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-30 00:30:08",
+  "updated": "2026-10-30 01:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "Trollfjord",
-      "quay": "Kai 8",
-      "arrival": "2026-10-29 10:00",
-      "departure": "2026-10-29 18:00",
-      "from_port": "Stokmarknes",
-      "to_port": "Honningsvåg",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "Aurora",
       "quay": "Kai 21",
       "arrival": "2026-10-29 08:00",
@@ -40,6 +30,16 @@
       "from_port": "Ålesund",
       "to_port": "Honningsvåg",
       "passengers": 230
+    },
+    {
+      "status": "next",
+      "name": "Finnmarken",
+      "quay": "Kai 8",
+      "arrival": "2026-11-05 10:00",
+      "departure": "2026-11-05 18:00",
+      "from_port": "Stokmarknes",
+      "to_port": "Honningsvåg",
+      "passengers": 500
     }
   ]
 }
