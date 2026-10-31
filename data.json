@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-31 18:30:08",
+  "updated": "2026-10-31 19:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Midnatsol Lefo (Cruise)",
-      "quay": "Kai 8",
-      "arrival": "2026-10-30 10:00",
-      "departure": "2026-10-30 18:00",
-      "from_port": "Stokmarknes",
-      "to_port": "Honningsvåg",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "Hanseatic Nature",
       "quay": "Kai 8",
       "arrival": "2026-10-31 12:30",
@@ -40,6 +30,16 @@
       "from_port": "Stokmarknes",
       "to_port": "Stokmarknes",
       "passengers": 0
+    },
+    {
+      "status": "next",
+      "name": "Nieuw Statendam",
+      "quay": "Kai 21",
+      "arrival": "2026-11-12 10:00",
+      "departure": "2026-11-13 22:00",
+      "from_port": "Trondheim",
+      "to_port": "Alta",
+      "passengers": 3152
     }
   ]
 }
