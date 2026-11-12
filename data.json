@@ -1,18 +1,8 @@
 {
-  "updated": "2026-11-12 17:30:08",
+  "updated": "2026-11-12 18:00:08",
   "ships": [
     {
       "status": "last",
-      "name": "Finnmarken",
-      "quay": "Kai 8",
-      "arrival": "2026-11-05 10:00",
-      "departure": "2026-11-05 18:00",
-      "from_port": "Stokmarknes",
-      "to_port": "Honningsvåg",
-      "passengers": 500
-    },
-    {
-      "status": "in_port",
       "name": "Trollfjord",
       "quay": "Kai 8",
       "arrival": "2026-11-12 10:00",
@@ -20,6 +10,16 @@
       "from_port": "Stokmarknes",
       "to_port": "Stokmarknes",
       "passengers": 0
+    },
+    {
+      "status": "in_port",
+      "name": "Nieuw Statendam",
+      "quay": "Kai 21",
+      "arrival": "2026-11-12 10:00",
+      "departure": "2026-11-13 22:00",
+      "from_port": "Trondheim",
+      "to_port": "Alta",
+      "passengers": 3152
     },
     {
       "status": "next",
