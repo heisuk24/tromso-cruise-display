@@ -1,18 +1,8 @@
 {
-  "updated": "2026-11-13 21:30:07",
+  "updated": "2026-11-13 22:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Midnatsol Lefo (Cruise)",
-      "quay": "Kai 8",
-      "arrival": "2026-11-13 10:00",
-      "departure": "2026-11-13 18:00",
-      "from_port": "Stokmarknes",
-      "to_port": "Honningsvåg",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "Nieuw Statendam",
       "quay": "Kai 21",
       "arrival": "2026-11-12 10:00",
@@ -40,6 +30,16 @@
       "from_port": "Bergen",
       "to_port": "Honningsvåg",
       "passengers": 1620
+    },
+    {
+      "status": "next",
+      "name": "Queen Anne",
+      "quay": "Kai 21",
+      "arrival": "2026-11-18 10:00",
+      "departure": "2026-11-19 02:30",
+      "from_port": "Ålesund",
+      "to_port": "Narvik",
+      "passengers": 2992
     }
   ]
 }
