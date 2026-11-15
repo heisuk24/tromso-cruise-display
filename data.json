@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-15 16:30:07",
+  "updated": "2026-11-15 17:00:07",
   "ships": [
     {
       "status": "last",
       "name": "Nieuw Statendam",
       "quay": "Kai 21",
       "arrival": "2026-11-12 10:00",
-      "departure": "2026-11-13 22:00",
+      "departure": "2026-11-13 23:24",
       "from_port": "Trondheim",
       "to_port": "Alta",
       "passengers": 3152
     },
     {
       "status": "in_port",
-      "name": "Hanseatic Nature",
-      "quay": "Kai 8",
+      "name": "Borealis",
+      "quay": "Kai 21",
       "arrival": "2026-11-15 12:30",
-      "departure": "2026-11-15 19:00",
-      "from_port": "Ålesund",
+      "departure": "2026-11-16 17:00",
+      "from_port": "Bergen",
       "to_port": "Honningsvåg",
-      "passengers": 230
+      "passengers": 1620
     },
     {
       "status": "next",
