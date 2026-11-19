@@ -1,18 +1,8 @@
 {
-  "updated": "2026-11-19 02:00:09",
+  "updated": "2026-11-19 02:30:07",
   "ships": [
     {
       "status": "last",
-      "name": "Borealis",
-      "quay": "Kai 21",
-      "arrival": "2026-11-15 12:30",
-      "departure": "2026-11-16 17:00",
-      "from_port": "Bergen",
-      "to_port": "Honningsvåg",
-      "passengers": 1620
-    },
-    {
-      "status": "in_port",
       "name": "Queen Anne",
       "quay": "Kai 21",
       "arrival": "2026-11-18 10:00",
@@ -39,6 +29,16 @@
       "departure": "2026-11-26 18:00",
       "from_port": "Stokmarknes",
       "to_port": "Honningsvåg",
+      "passengers": 0
+    },
+    {
+      "status": "next",
+      "name": "Spitsbergen Lfek",
+      "quay": "Kai 8",
+      "arrival": "2026-11-27 08:00",
+      "departure": "2026-11-28 22:00",
+      "from_port": "Other – Norway",
+      "to_port": "Other – Norway",
       "passengers": 0
     }
   ]
