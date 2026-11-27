@@ -1,24 +1,24 @@
 {
-  "updated": "2026-11-27 17:30:07",
+  "updated": "2026-11-27 18:00:07",
   "ships": [
     {
       "status": "last",
-      "name": "Trollfjord",
-      "quay": "Kai 8",
-      "arrival": "2026-11-26 10:00",
-      "departure": "2026-11-26 18:00",
-      "from_port": "Stokmarknes",
-      "to_port": "Honningsvåg",
-      "passengers": 0
-    },
-    {
-      "status": "in_port",
       "name": "Midnatsol Lefo (Cruise)",
       "quay": "Kai 8",
       "arrival": "2026-11-27 10:00",
       "departure": "2026-11-27 18:00",
       "from_port": "Stokmarknes",
       "to_port": "Honningsvåg",
+      "passengers": 0
+    },
+    {
+      "status": "in_port",
+      "name": "Spitsbergen Lfek",
+      "quay": "Kai 8",
+      "arrival": "2026-11-27 08:00",
+      "departure": "2026-11-28 22:00",
+      "from_port": "Other – Norway",
+      "to_port": "Other – Norway",
       "passengers": 0
     },
     {
